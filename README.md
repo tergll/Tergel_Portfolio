@@ -1,2 +1,5 @@
-# Tergel_Portfolio
-Data science portfolio
+# Tergel's Portfolio
+
+### Education
+
+### Work Experience
