@@ -1,5 +1,3 @@
 # Tergel's Portfolio
 
-### Education
-
-### Work Experience
+Please click on the files to access reports on the works.
